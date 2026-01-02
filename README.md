@@ -21,7 +21,7 @@ A Python-based AI chatbot with natural language processing using NLTK and a mode
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/MiniChatbot.git
+git clone https://github.com/aniiic147/MiniChatbot.git
 cd MiniChatbot
 ```
 
