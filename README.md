@@ -81,6 +81,7 @@ MiniChatbot/
 
 ## Screenshots
 
+<img width="1919" height="904" alt="aichatbot" src="https://github.com/user-attachments/assets/f816cd09-bd1e-4e6c-bb8b-3b4453216f48" />
 
 
 ## Future Improvements
