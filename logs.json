@@ -1,0 +1,34 @@
+[
+    {
+        "user": "How are you",
+        "bot": "You said: 'How are you'. I processed it to: ''. (Mock response - add OpenAI billing to get real AI responses!)"
+    },
+    {
+        "user": "What is the weather today",
+        "bot": "I'm a mock chatbot, so I can't check real weather, but I hope it's nice where you are!"
+    },
+    {
+        "user": "Tell me about python",
+        "bot": "You said: 'Tell me about python'. I processed it to: 'tell python'. (Mock response - add OpenAI billing to get real AI responses!)"
+    },
+    {
+        "user": "hello",
+        "bot": "Hello! How can I help you today?"
+    },
+    {
+        "user": "how are you",
+        "bot": "You said: 'how are you'. I processed it to: ''. (Mock response - add OpenAI billing to get real AI responses!)"
+    },
+    {
+        "user": "okay",
+        "bot": "You said: 'okay'. I processed it to: 'okay'. (Mock response - add OpenAI billing to get real AI responses!)"
+    },
+    {
+        "user": "Hello",
+        "bot": "Hello! How can I help you today?"
+    },
+    {
+        "user": "Hello",
+        "bot": "Hello! How can I help you today?"
+    }
+]
